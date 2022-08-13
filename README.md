@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmzr-sh
+- 👋 Hi, I’m @dmzr
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning GCP and Python
 
